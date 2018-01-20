@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Oleo+Script");
+.bg{
+  background-color: rosybrown;
+  height:150vh;
+  font-size:20px;
+  background-image:url('https://ak5.picdn.net/shutterstock/videos/30804685/thumb/1.jpg');
+  background-size:cover;
+  background-attachment: fixed;
+  font-family: 'Oleo Script', cursive;
+  color:rebeccapurple;
+}
+img{
+    height: 30%;
+    width: 40%;
+}
+a{
+  text-decoration: none;
+}
